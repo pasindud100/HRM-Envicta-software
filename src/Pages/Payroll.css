@@ -1,0 +1,17 @@
+.payroll-container {
+    padding: 20px;
+}
+
+.nav-tabs .nav-link {
+    color: #007bff;
+}
+
+.nav-tabs .nav-link.active {
+    background-color: #e9ecef;
+    border-color: #dee2e6 #dee2e6 #fff;
+    color: #495057;
+}
+
+.nav-tabs .nav-item {
+    margin-right: 10px;
+}
